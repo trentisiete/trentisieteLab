@@ -77,7 +77,7 @@ export default function Hero() {
               className="text-xl lg:text-2xl text-neutral-600 max-w-3xl mx-auto mb-10 leading-relaxed text-balance"
             >
               Desarrollo modelos de IA y estrategias cuantitativas que transforman datos de mercado en valor.
-              Mi especialidad: la intersección entre el <span className="font-semibold text-primary-600">Deep Learning</span> y las <span className="font-semibold text-secondary-600">finanzas</span>.
+              Mi especialidad: El <span className="font-semibold text-primary-600">Deep Learning y Machine Learning</span>, las <span className="font-semibold text-secondary-600">finanzas</span> y el <span className="font-semibold text-secondary-600">desarrollo de Software</span>.
             </motion.p>
 
             <motion.div
