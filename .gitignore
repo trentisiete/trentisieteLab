@@ -1,0 +1,102 @@
+# Dependencias
+/node_modules
+/.pnp
+.pnp.js
+.yarn/install-state.gz
+
+# Testing
+/coverage
+
+# Next.js
+/.next/
+/out/
+/build
+.next
+
+# Producción
+/build
+/dist
+
+# Misc
+.DS_Store
+*.pem
+.env*.local
+.env
+
+# Debug
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# IDEs y editores
+/.idea
+.project
+.classpath
+.c9/
+*.launch
+.settings/
+*.sublime-workspace
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+
+# TypeScript
+*.tsbuildinfo
+next-env.d.ts
+
+# PWA
+**/public/sw.js
+**/public/workbox-*.js
+**/public/worker-*.js
+**/public/sw.js.map
+**/public/workbox-*.js.map
+**/public/worker-*.js.map
+
+# Cache
+.cache
+.parcel-cache
+
+# Logs
+logs
+*.log
+
+# Sistema operativo
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# Archivos temporales
+*.swp
+*.swo
+*~
+
+# Archivos de entorno
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Archivos de construcción
+.next
+out
+build
+dist
+
+# Archivos de cobertura
+coverage
+.nyc_output
+
+# Archivos de caché
+.eslintcache
+.stylelintcache
+
+# Archivos de dependencias
+package-lock.json
+yarn.lock
+pnpm-lock.yaml
+
+# Archivos de configuración local
+*.local
