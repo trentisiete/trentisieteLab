@@ -3,8 +3,7 @@
 import { motion } from 'framer-motion'
 import { Github, Linkedin, Mail } from 'lucide-react'
 
-// He ajustado los datos para incluir tu email principal del CV
-// y simplificar los enlaces.
+
 const socialLinks = [
   {
     name: 'LinkedIn',
@@ -14,7 +13,7 @@ const socialLinks = [
   },
   {
     name: 'GitHub',
-    href: 'https://github.com/jose-arbelaez', // Usé el que estaba en tu código original
+    href: 'https://github.com/trentisiete',
     icon: Github,
     glowColor: 'hover:shadow-gray-400/50'
   },

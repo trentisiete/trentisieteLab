@@ -69,7 +69,6 @@ export default function Hero() {
               <span className="block text-neutral-900">JOSÉ ARBELÁEZ</span>
             </motion.h1>
 
-            {/* --- TEXTO ACTUALIZADO AQUÍ --- */}
             <motion.p 
               initial={{ opacity: 0, y: 20 }}
               animate={{ opacity: 1, y: 0 }}
