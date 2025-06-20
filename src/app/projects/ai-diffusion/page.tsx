@@ -147,12 +147,12 @@ export default function AIDiffusionPage() {
             className="flex flex-wrap justify-center lg:justify-start gap-4 mb-16"
           >
             <a
-              href="https://github.com/trentisiete/image_generation_difussion_project"
+              href="https://github.com/trentisiete/image_generation_with_difussion_process"
               target="_blank"
               rel="noopener noreferrer"
               className="btn btn-primary group px-8 py-3 rounded-xl flex items-center gap-2 shadow-lg hover:shadow-xl hover:scale-105 transition-all duration-300"
             >
-              <Github size={20} className="group-hover:scale-110 transition-transform" />
+              <img src="/projects/favicon.ico.png" alt="JA" className="w-5 h-5 mr-2 rounded-full" />
               <span className="font-semibold">Código en GitHub</span>
             </a>
             <a

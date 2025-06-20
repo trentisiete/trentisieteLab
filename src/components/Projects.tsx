@@ -26,7 +26,7 @@ const projects: Project[] = [
     description: "Implementación desde cero de modelos de difusión estocástica (SDE) para la generación de imágenes, replicando papers de investigación y demostrando un profundo entendimiento de la arquitectura de redes neuronales.",
     image: "/projects/diffusion-sde.jpg",
     tags: ["Python", "PyTorch", "Deep Learning", "Generative AI", "SDE"],
-    githubUrl: "https://github.com/josearbelaez/diffusion-sde",
+    githubUrl: "https://github.com/trentisiete/image_generation_with_difussion_process",
     icon: BrainCircuit,
     path: "/projects/ai-diffusion",
     featured: true, // Marcamos este como el proyecto principal
