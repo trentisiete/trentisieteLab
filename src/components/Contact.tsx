@@ -71,7 +71,7 @@ export default function Footer() {
             variants={itemVariants}
             className="text-lg text-neutral-400 max-w-xl mx-auto mb-10"
           >
-            Estoy buscando activamente oportunidades para aplicar mis habilidades en proyectos desafiantes. Hablemos de cómo puedo aportar valor a tu equipo.
+            Estoy buscando activamente oportunidades para aplicar mis habilidades en proyectos desafiantes. Hablemos y veamos cómo puedo contribuir a tu proyecto.
           </motion.p>
           
           {/* Iconos de Redes Sociales */}
